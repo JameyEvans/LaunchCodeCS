@@ -1,0 +1,6 @@
+[submodule "Repos/Repos/SWD-U1-bonus-exercises"]
+	path = Repos/Repos/SWD-U1-bonus-exercises
+	url = https://github.com/JameyEvans/SWD-U1-bonus-exercises.git
+[submodule "Repos/SWD-U1-bonus-exercises"]
+	path = Repos/SWD-U1-bonus-exercises
+	url = https://github.com/JameyEvans/SWD-U1-bonus-exercises.git
